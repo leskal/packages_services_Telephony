@@ -762,4 +762,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"來電轉駁。"</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"正在加入會議通話。"</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"保留中的通話已斷線。"</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">我的電話號碼</string>
+    <string name="phone_number_summary">設定本機號碼</string>
+    <string name="set_my_number_failed">設定電話號碼失敗</string>
 </resources>

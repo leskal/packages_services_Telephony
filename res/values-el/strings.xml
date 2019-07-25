@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Έγινε προώθηση της κλήσης."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Συμμετοχή σε κλήση διάσκεψης."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Έγινε αποδέσμευση της κλήσης σε κράτηση."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Ο αριθμός μου</string>
+    <string name="phone_number_summary">Ορίστε τον αριθμό τηλεφώνου για αυτή τη συσκευή</string>
+    <string name="set_my_number_failed">Αποτυγχία ορισμού αριθμού τηλεφώνου</string>
 </resources>

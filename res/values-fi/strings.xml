@@ -762,4 +762,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Siirretty puhelu."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Liitytään puhelinneuvotteluun."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Pidossa ollut puhelu on vapautettu."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Oma puhelinnumero</string>
+    <string name="phone_number_summary">Aseta tämän laitteen puhelinnumero</string>
+    <string name="set_my_number_failed">Puhelinnumeron asettaminen epäonnistui</string>
 </resources>

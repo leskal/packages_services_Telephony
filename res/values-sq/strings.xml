@@ -760,4 +760,6 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Telefonatë e transferuar."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Po bashkohesh në një telefonatë konferencë."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Telefonata në pritje u shkëput."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Numri im i telefonit</string>
 </resources>

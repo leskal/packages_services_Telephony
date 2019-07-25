@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Doorgeschakeld gesprek."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Deelnemen aan telefonische vergadering…"</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"In de wacht gezette gesprek is vrijgegeven."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Mijn telefoonnummer</string>
+    <string name="phone_number_summary">Telefoonnummer instellen voor deze telefoon</string>
+    <string name="set_my_number_failed">Fout bij het instellen van telefoonnummer</string>
 </resources>

@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Yönlendirilmiş çağrı."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Konferans çağrısına katılınıyor."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Beklemedeki çağrı serbest bırakıldı."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Telefon numaram</string>
+    <string name="phone_number_summary">Bu cihaz için telefon numarasını ayarla</string>
+    <string name="set_my_number_failed">Telefon numarasını ayarlamak başarısız oldu</string>
 </resources>

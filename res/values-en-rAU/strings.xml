@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Forwarded call."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Joining conference call."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Held call has been released."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">My phone number</string>
+    <string name="phone_number_summary">Set the phone number for this device</string>
+    <string name="set_my_number_failed">Failed to set phone number</string>
 </resources>

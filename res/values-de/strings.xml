@@ -762,4 +762,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Anruf weitergeleitet."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"An Telefonkonferenz teilnehmen."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Gehaltener Anruf wurde beendet."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Meine Rufnummer</string>
+    <string name="phone_number_summary">Rufnummer für dieses Gerät setzen</string>
+    <string name="set_my_number_failed">Fehler beim Festlegen der Telefonnummer</string>
 </resources>

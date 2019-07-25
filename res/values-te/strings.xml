@@ -760,4 +760,7 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"కాల్ ఫార్వార్డ్ చేయబడింది."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"కాన్ఫరెన్స్ కాల్‌లో చేరుతున్నారు"</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"హోల్డ్‌లో ఉంచిన కాల్ ప్రారంభించబడింది."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">నా ఫోన్ నంబర్</string>
+    <string name="phone_number_summary">ఈ పరికరానికి ఫోన్ నంబరును సెట్ చేయుము</string>
 </resources>

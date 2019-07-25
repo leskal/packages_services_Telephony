@@ -762,4 +762,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Videresendt opkald."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Du deltager i konferenceopkaldet."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Det parkerede opkald er blevet frigivet."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Mit telefonnummer</string>
+    <string name="phone_number_summary">Angiv telefonnummeret for denne enhed</string>
+    <string name="set_my_number_failed">Indstilling af telefonnummer mislykkedes</string>
 </resources>

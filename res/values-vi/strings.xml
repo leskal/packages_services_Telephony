@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Cuộc gọi đã được chuyển tiếp."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Đang tham gia cuộc gọi nhiều bên."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Đã ngắt kết nối cuộc gọi chờ."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Số điện thoại của tôi</string>
+    <string name="phone_number_summary">Thiết lập số điện thoại cho thiết bị này</string>
+    <string name="set_my_number_failed">Không thể thiết lập số điện thoại</string>
 </resources>

@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"착신전환된 통화입니다."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"다자간 통화에 참여합니다."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"통화 보류가 해제되었습니다."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">내 전화번호</string>
+    <string name="phone_number_summary">이 장치의 전화번호 설정</string>
+    <string name="set_my_number_failed">휴대전화 번호를 설정할 수 없습니다</string>
 </resources>

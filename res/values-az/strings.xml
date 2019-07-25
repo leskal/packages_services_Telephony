@@ -760,4 +760,7 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Yönləndirilmiş zəng."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Konfrans zənginə qoşulursunuz."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Gözləmədə olan zəngin bağlantısı kəsildi."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Telefon nömrəm</string>
+    <string name="phone_number_summary">Bu cihaz üçün telefon nömrəsini tənzimlə</string>
 </resources>

@@ -760,4 +760,7 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"ଫରୱାର୍ଡ କରାଯାଇଥିବା କଲ୍।"</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"କନଫରେନ୍ସ କଲ୍‌ରେ ଯୋଗ ଦେବା।"</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"ହୋଲ୍ଡ କରାଯାଇଥିବା କଲ୍‌ରୁ ହୋଲ୍ଡ ହଟାଇଦିଆଗଲା।"</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">ମୋ ଫୋନ୍ ନମ୍ଵର୍</string>
+    <string name="phone_number_summary">ଏହି ଡିଭାଇସ୍‍ ପାଇଁ ଫୋନ୍‍ ନମ୍ବ୍ର ସେଟ୍‍ କରନ୍ତୁ</string>
 </resources>

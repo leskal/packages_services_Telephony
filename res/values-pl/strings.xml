@@ -764,4 +764,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Połączenie przekierowane."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Dołączam do połączenia konferencyjnego."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Wstrzymane połączenie zostało wznowione."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Mój numer telefonu</string>
+    <string name="phone_number_summary">Ustaw numer telefonu dla tego urządzenia</string>
+    <string name="set_my_number_failed">Nie udało się ustawić numeru telefonu</string>
 </resources>

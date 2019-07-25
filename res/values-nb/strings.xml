@@ -764,4 +764,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Viderekoblet anrop."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Blir med i konferansesamtalen."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Anropet som var på vent, er frigitt."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Telefonnummeret mitt</string>
+    <string name="phone_number_summary">Angi telefonnummeret for denne enheten</string>
+    <string name="set_my_number_failed">Kunne ikke angi telefonnummer</string>
 </resources>

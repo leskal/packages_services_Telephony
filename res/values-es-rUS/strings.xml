@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Llamada desviada."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Uniéndose a la conferencia."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Se desconectó la llamada en espera."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Mi número de teléfono</string>
+    <string name="phone_number_summary">Establecer el número asociado a este dispositivo</string>
+    <string name="set_my_number_failed">No se pudo definir el número de teléfono</string>
 </resources>

@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"S\'ha desviat la trucada."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"T\'estàs unint a la conferència."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"S\'ha desconnectat la trucada en espera."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">El meu número de telèfon</string>
+    <string name="phone_number_summary">Estableix el número de telèfon per aquest dispositiu</string>
+    <string name="set_my_number_failed">No s\'ha pogut establir el número de telèfon</string>
 </resources>

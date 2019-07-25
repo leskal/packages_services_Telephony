@@ -764,4 +764,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Přesměrovaný hovor."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Připojování ke konferenčnímu hovoru."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Podržený hovor byl odpojen."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Moje telefonní číslo</string>
+    <string name="phone_number_summary">Nastavení telefonního čísla pro toto zařízení</string>
+    <string name="set_my_number_failed">Nepodařilo se nastavit telefonní číslo</string>
 </resources>

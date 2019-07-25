@@ -764,4 +764,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"השיחה הועברה."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"אנחנו מצרפים אותך לשיחת הוועידה."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"השיחה שוחררה מהמתנה."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">מספר הטלפון שלי</string>
+    <string name="phone_number_summary">הגדר מספר טלפון למכשיר זה</string>
+    <string name="set_my_number_failed">הגדרת מספר הטלפון נכשלה</string>
 </resources>

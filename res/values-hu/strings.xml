@@ -760,4 +760,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Átirányított hívás."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Csatlakozás konferenciahíváshoz."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Várakoztatott hívás feloldva."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Saját telefonszám</string>
+    <string name="phone_number_summary">Telefonszám beállítása az eszközhöz</string>
+    <string name="set_my_number_failed">Telefonszám beállítása sikertelen</string>
 </resources>

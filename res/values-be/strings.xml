@@ -764,4 +764,7 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Пераадрасаваны выклік."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Ідзе далучэнне да канферэнц-выкліку."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Утрыманы выклік быў завершаны."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Мой нумар тэлефона</string>
+    <string name="phone_number_summary">Задаць тэлефонны нумар для гэтай прылады</string>
 </resources>

@@ -760,4 +760,7 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"കൈമാറിയ കോൾ."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"കോൺഫറൻസ് കോളിൽ ചേരുന്നു."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"ഹോൾഡ് ചെയ്‌ത കോൾ സ്വതന്ത്രമാക്കി."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">എന്റെ ഫോൺ നമ്പർ</string>
+    <string name="phone_number_summary">ഈ ഉപകരണത്തിന് വേണ്ടി ഫോൺ നമ്പർ സജ്ജമാക്കുക</string>
 </resources>

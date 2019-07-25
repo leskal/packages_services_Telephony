@@ -764,4 +764,8 @@
     <string name="supp_service_forwarded_call" msgid="4509980341645679803">"Vidarekopplat samtal."</string>
     <string name="supp_service_conference_call" msgid="4448616364004466832">"Ansluter till konferenssamtal."</string>
     <string name="supp_service_held_call_released" msgid="2030677825038709779">"Parkerat samtal återupptaget."</string>
+    <!-- My Phone Number -->
+    <string name="phone_number_label">Mitt telefonnummer</string>
+    <string name="phone_number_summary">Ställ in enhetens telefonnummer</string>
+    <string name="set_my_number_failed">Misslyckades med att ställa in telefonnumret</string>
 </resources>
